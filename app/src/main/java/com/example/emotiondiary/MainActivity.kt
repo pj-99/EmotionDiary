@@ -40,4 +40,7 @@ class MainActivity : AppCompatActivity() {
     fun printhi(){
         Log.i("Test","hi");
     }
+    fun printOAO(){
+        Log.i("Test2","456");
+    }
 }
